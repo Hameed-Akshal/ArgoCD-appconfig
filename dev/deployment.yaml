@@ -14,6 +14,6 @@ spec:
     spec:
       containers:
       - name: myapp
-        image: hameedakshal/hanabi-py:31
+        image: hameedakshal/hanabi-py:32
         ports:
         - containerPort: 8081
